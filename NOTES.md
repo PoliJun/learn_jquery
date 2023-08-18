@@ -12,19 +12,17 @@
 -   multi-select
 -   child selectors
     > `$(div > p).fadeToggle()`
--   first element
+- first element
     > `$(p:first).fadeToggle()`  
     > **Doesn't work with `p:second`**
--   even or odd element, only influences even or odd number of elements
+- even or odd element, only influences even or odd number of elements
     > `$(p:even).fadeToggle()`
-
 ###### All selectors
-
 ![all](img/selectors_all.png)
-
 # jQuery Events
-
--   click
+- click
     > `$("button").click(func1)`
--   css()
-    > `$("#img").css('width', '100%')`
+- css()
+    > `$("#img").css('width', '100%')`  
+
+
