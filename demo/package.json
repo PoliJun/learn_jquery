@@ -1,0 +1,12 @@
+{
+  "name": "learndemo",
+  "version": "1.0.0",
+  "description": "Simplilearn",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "jquery": "^3.7.0",
+    "jsdom": "^22.1.0"
+  }
+}
